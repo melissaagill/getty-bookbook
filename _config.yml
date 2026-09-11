@@ -1,5 +1,3 @@
 title: Getty STAR Dataset Cookbook
-description: Recipes and stories from Getty staff
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
+description: Recipes and stories from Getty staff from STAR system exported databse. 
+theme: minima
