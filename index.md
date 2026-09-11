@@ -1,11 +1,22 @@
-# Getty Stardata Cookbook
+# Getty Community Cookbook
 
-A collection of recipes and stories contributed by Getty staff.
+A collection of recipes, food memories, and stories shared by Getty staff.
 
-## Categories
+images/cookbook-cover.jpg
 
-- breakfast.md
-- appetizers.md
-- soups-salads-sides.md
-- main-dishes.md
-- desserts.md
+## Browse Recipes
+
+### Breakfast
+- Pancakes, waffles, muffins, and more
+
+### Appetizers
+- Starters, snacks, and party favorites
+
+### Soups, Salads & Sides
+- Seasonal dishes and comfort food
+
+### Main Dishes
+- Family favorites from around the world
+
+### Desserts
+- Cakes, cookies, pies, and sweets
